@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "marceline",
+      "name": "Marceline Abadeer"
+    },
+    {
+      "id": 2,
+      "username": "finn",
+      "name": "Finn 'the Human' Mertens"
+      
+    },
+    {
+      "id": 3,
+      "username": "pb",
+      "name": "Bonnibel Bubblegum"
+      
+    },
+    {
+      "id": 4,
+      "username": "jake",
+      "name": "Jake the Dog"
+      
+    }
+  ]
+}
